@@ -1,5 +1,6 @@
 # FaceClustering-Project
-A face clustering project using DBSCAN and Chinese whispers algorithm
+A face clustering project using DBSCAN and Chinese whispers algorithm. 
+This project was part of a Computer Vision course
 
 1. Create an dataset folder with a set of input images
 2. Run encode_faces.py first to encode the images into a pickle file. 
